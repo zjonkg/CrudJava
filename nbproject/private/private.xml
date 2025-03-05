@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/Crud/src/model/Product.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/Crud/src/controller/ProductController.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/Crud/src/model/CrudRepository.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/Crud/src/crud/Crud.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/Crud/src/model/BaseEntity.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/Crud/src/model/ProductRepository.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/Crud/src/Main.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/Crud/src/utils/PlaceholderTextField.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/Crud/src/view/ProductView.java</file>
+        </group>
+    </open-files>
+</project-private>
